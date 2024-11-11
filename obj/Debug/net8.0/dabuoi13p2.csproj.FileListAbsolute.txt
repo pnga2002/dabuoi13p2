@@ -1,0 +1,14 @@
+D:\cyber\dotNET 01\DABuoi13\dabuoi13p2\bin\Debug\net8.0\dabuoi13p2.exe
+D:\cyber\dotNET 01\DABuoi13\dabuoi13p2\bin\Debug\net8.0\dabuoi13p2.deps.json
+D:\cyber\dotNET 01\DABuoi13\dabuoi13p2\bin\Debug\net8.0\dabuoi13p2.runtimeconfig.json
+D:\cyber\dotNET 01\DABuoi13\dabuoi13p2\bin\Debug\net8.0\dabuoi13p2.dll
+D:\cyber\dotNET 01\DABuoi13\dabuoi13p2\bin\Debug\net8.0\dabuoi13p2.pdb
+D:\cyber\dotNET 01\DABuoi13\dabuoi13p2\obj\Debug\net8.0\dabuoi13p2.GeneratedMSBuildEditorConfig.editorconfig
+D:\cyber\dotNET 01\DABuoi13\dabuoi13p2\obj\Debug\net8.0\dabuoi13p2.AssemblyInfoInputs.cache
+D:\cyber\dotNET 01\DABuoi13\dabuoi13p2\obj\Debug\net8.0\dabuoi13p2.AssemblyInfo.cs
+D:\cyber\dotNET 01\DABuoi13\dabuoi13p2\obj\Debug\net8.0\dabuoi13p2.csproj.CoreCompileInputs.cache
+D:\cyber\dotNET 01\DABuoi13\dabuoi13p2\obj\Debug\net8.0\dabuoi13p2.dll
+D:\cyber\dotNET 01\DABuoi13\dabuoi13p2\obj\Debug\net8.0\refint\dabuoi13p2.dll
+D:\cyber\dotNET 01\DABuoi13\dabuoi13p2\obj\Debug\net8.0\dabuoi13p2.pdb
+D:\cyber\dotNET 01\DABuoi13\dabuoi13p2\obj\Debug\net8.0\dabuoi13p2.genruntimeconfig.cache
+D:\cyber\dotNET 01\DABuoi13\dabuoi13p2\obj\Debug\net8.0\ref\dabuoi13p2.dll
